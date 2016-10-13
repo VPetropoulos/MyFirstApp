@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="textview_titel">Hallo Android</string>
+    <string name="button_rot">Rot</string>
+    <string name="button_ende">Ende</string>
+    <string name="button_gelb">Gelb</string>
+    <string name="textUser">Username</string>
+    <string name="textPasswort">Password</string>
+    <string name="ButtonLogin">Login</string>
+
+</resources>
